@@ -1,4 +1,3 @@
-boost==1.76.0
 cmake==3.20.0
 boost-py
 face_recognition_models
